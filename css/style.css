@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(253, 247, 253);
+    
+}
+.ccontainer{
+    
+    background-color:rgb(247, 233, 247);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 825px;
+}
+.cnavbar{
+    color: #ffffff;
+    font-weight: 600;
+    background-color:rgb(202, 199, 202);
+    }
+.headliner{
+    color: rgb(87, 46, 126);
+}
+
+.footer{
+    width:100px;
+    background-color:rgb(202, 199, 202);
+}
