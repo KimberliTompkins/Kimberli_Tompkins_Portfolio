@@ -2,19 +2,15 @@ body{
     background-color:rgb(253, 247, 253);
     
 }
-.ccontainer{
+ .ccontainer{
     
     background-color:rgb(247, 233, 247);
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
     max-width: 825px;
-}
-.jumbotron1{
-    
-    background-color:white;
-   
-}
+} 
+
 .cnavbar{
     color: #ffffff;
     font-weight: 600;
