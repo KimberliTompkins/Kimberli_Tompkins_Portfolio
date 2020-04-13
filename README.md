@@ -2,4 +2,4 @@
 
 My Portfolio.  This will be used to demonstrate my work and knowledge of Full Stack Web Development
 
-Developed by Kimberli Tompkins 2020
+Developed by Kimberli Tompkins 2020.  https://kimberlitompkins.github.io/Portfolio/
